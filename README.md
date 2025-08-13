@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm a 20 y/o Front-end Developer from Lviv, Ukraine
+# 👋 Hi there! I'm a 20 y/o Trainee DevOps Engineer from Lviv, Ukraine
 
 ## ⚛️ Front-end
 ![HTML](https://skillicons.dev/icons?i=html)
@@ -23,7 +23,13 @@
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![SQLite](https://skillicons.dev/icons?i=sqlite)
 
+## 🐳 DevOps
+![Docker](https://skillicons.dev/icons?i=docker)
+![Terraform](https://skillicons.dev/icons?i=terraform)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+
 ## 🛠 Tools & Other
+![Linux](https://skillicons.dev/icons?i=linux)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
