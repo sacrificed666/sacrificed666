@@ -25,6 +25,7 @@
 
 ## 🐳 DevOps
 ![Docker](https://skillicons.dev/icons?i=docker)
+![Nginx](https://skillicons.dev/icons?i=nginx)
 ![Terraform](https://skillicons.dev/icons?i=terraform)
 ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 
@@ -32,6 +33,7 @@
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
+![GitHubActions](https://skillicons.dev/icons?i=githubactions)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![Photoshop](https://skillicons.dev/icons?i=ps)
 ![Premiere Pro](https://skillicons.dev/icons?i=pr)
