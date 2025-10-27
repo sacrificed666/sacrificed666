@@ -10,6 +10,7 @@
 ![Redux](https://skillicons.dev/icons?i=redux)
 ![Vite](https://skillicons.dev/icons?i=vite)
 ![SASS](https://skillicons.dev/icons?i=sass)
+![Less](https://skillicons.dev/icons?i=less)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![jQuery](https://skillicons.dev/icons?i=jquery)
@@ -26,6 +27,8 @@
 ## 🐳 DevOps
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Nginx](https://skillicons.dev/icons?i=nginx)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
 ![Terraform](https://skillicons.dev/icons?i=terraform)
 ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 
