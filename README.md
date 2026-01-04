@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm a 20 y/o Junior DevOps Engineer from Lviv, Ukraine
+# 👋 Hi there! I'm a 21 y/o Junior DevOps Engineer from Lviv, Ukraine
 
 ## ⚛️ Front-end
 ![HTML](https://skillicons.dev/icons?i=html)
