@@ -30,6 +30,7 @@
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
 ![Terraform](https://skillicons.dev/icons?i=terraform)
+![Terraform](https://skillicons.dev/icons?i=ansible)
 ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 
 ## 🛠 Tools & Other
